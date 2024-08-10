@@ -16,3 +16,4 @@ https://itlaedudo-my.sharepoint.com/:v:/g/personal/202010473_itla_edu_do/EaHkcZ0
 ![Permisos GitHub](/img/Permisos%20en%20GitHub.png)
 ![Historias de usuario](/img/HU%20-%20Azure%20DevOps.png)
 
+# Gracias
